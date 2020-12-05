@@ -1,5 +1,5 @@
 # Project 0
-# Telcome to my very first website.
+# Welcome to my very first website.
  # The aim of this project is creating a website using the following languages:
   # *HTML
   # *CSS
